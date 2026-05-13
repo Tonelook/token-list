@@ -1848,6 +1848,14 @@
       "description": "Wrapped Smartiecoin (wSMT) is the bridged representation of native SMT on Alephium, backed 1:1 via the Smartiecoin Bridge.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMT.png"
     }
+    {
+      "id": "38847a9e031e1485e6d0d005b902f02292b9d2dde165ccdd9e3376683fff4200",
+      "name": "Tonelook",
+      "symbol": "TLK",
+      "decimals": 18,
+      "description": "Official Tonelook music community and governance token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMT.png"
+    }
   ] 
 }  
 
